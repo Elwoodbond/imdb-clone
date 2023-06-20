@@ -1,6 +1,6 @@
 'use client'
 import React, { useEffect } from 'react'
-import {MdLightMode, mdnightmode} from 'react-icons/md'
+import {MdLightMode, MdNightmMode} from 'react-icons/md'
 import { BsFillMoonFill } from 'react-icons/bs'
 import { useTheme } from 'next-themes'
 
