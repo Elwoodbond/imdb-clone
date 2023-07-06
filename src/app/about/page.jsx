@@ -10,7 +10,7 @@ export default function About() {
 
         <p>In addition to providing factual information, IMDb also features user-generated content. Registered users can contribute by submitting reviews, ratings, and trivia, creating personalized watchlists, and participating in discussions on message boards. This interactive aspect allows individuals to share their opinions, recommendations, and insights, fostering a vibrant community of film enthusiasts.</p>
 
-        <p>IMDb's extensive database is continuously updated to include new releases, upcoming projects, and comprehensive information on both mainstream and independent productions. It also features supplementary content like celebrity biographies, filmographies, and awards information, making it a valuable resource for researching the careers and accomplishments of industry professionals.</p>
+        <p>IMDbs extensive database is continuously updated to include new releases, upcoming projects, and comprehensive information on both mainstream and independent productions. It also features supplementary content like celebrity biographies, filmographies, and awards information, making it a valuable resource for researching the careers and accomplishments of industry professionals.</p>
         
         <p>IMDb has won The Webby award for Best Movie and Film Website multiple times, including in 2019 and 2020.</p>
 
